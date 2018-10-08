@@ -1,0 +1,23 @@
+{
+  "name": "iot-edge-thingspro-tag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "azure-iot-device": "^1.7.4",
+    "azure-iot-device-mqtt": "^1.7.4",
+    "debug": "^4.0.1",
+    "mqtt": "^2.18.8",
+    "protobufjs": "^6.8.8"
+  },
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
